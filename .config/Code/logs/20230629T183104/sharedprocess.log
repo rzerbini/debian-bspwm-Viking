@@ -1,0 +1,8 @@
+2023-06-29 18:31:06.096 [info] Deleted from disk github.vscode-pull-request-github /home/thor/.vscode/extensions/github.vscode-pull-request-github-0.66.1
+2023-06-29 18:31:06.097 [info] Deleted from disk ms-azuretools.vscode-docker /home/thor/.vscode/extensions/ms-azuretools.vscode-docker-1.25.1
+2023-06-29 18:31:06.527 [error] Error: Unable to resolve nonexistent file '/home/thor/.vscode/extensions/github.vscode-pull-request-github-0.66.1'
+    at e.FileService.resolve (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:36:15736)
+    at async e.ExtensionsScanner.y (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:82:15963)
+    at async Promise.all (index 2)
+    at async D.C (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:61:20685)
+    at async D.m (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:61:18385)

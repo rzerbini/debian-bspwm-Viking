@@ -1,0 +1,4 @@
+2023-06-29 18:18:47.900 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/thor/.themes/thor-theme/gtk-3.0/gtk.css","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
+2023-06-29 18:18:49.088 [error] [medzhidov.font-awesome-codes-html]: Unknown language in `contributes.font-awesome-codes-html.language`. Provided value: pug
+2023-06-29 18:18:49.088 [error] [medzhidov.font-awesome-codes-html]: Unknown language in `contributes.font-awesome-codes-html.language`. Provided value: ejs
+2023-06-29 18:18:51.200 [info] [perf] Render performance baseline is 21ms

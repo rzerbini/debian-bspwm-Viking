@@ -1,0 +1,16 @@
+2023-06-29 18:18:52.565 [info] Getting Manifest... github.vscode-pull-request-github
+2023-06-29 18:18:52.568 [info] Getting Manifest... ms-azuretools.vscode-docker
+2023-06-29 18:18:52.592 [info] Installing extension: ms-azuretools.vscode-docker
+2023-06-29 18:18:52.610 [info] Installing extension: github.vscode-pull-request-github
+2023-06-29 18:18:54.543 [info] Extension signature is verified: ms-azuretools.vscode-docker
+2023-06-29 18:18:54.703 [info] Extracted extension to /home/thor/.vscode/extensions/.119b2160-aafd-4ee8-b48c-21363018480d: ms-azuretools.vscode-docker
+2023-06-29 18:18:54.709 [info] Renamed to /home/thor/.vscode/extensions/ms-azuretools.vscode-docker-1.25.2
+2023-06-29 18:18:54.717 [info] Extracting extension completed. ms-azuretools.vscode-docker
+2023-06-29 18:18:54.729 [info] Extension installed successfully: ms-azuretools.vscode-docker
+2023-06-29 18:18:54.750 [info] Marked extension as uninstalled ms-azuretools.vscode-docker-1.25.1
+2023-06-29 18:18:54.968 [info] Extension signature is verified: github.vscode-pull-request-github
+2023-06-29 18:18:55.166 [info] Extracted extension to /home/thor/.vscode/extensions/.4f737b71-8d6e-449b-afe8-a684f07b9baf: github.vscode-pull-request-github
+2023-06-29 18:18:55.171 [info] Renamed to /home/thor/.vscode/extensions/github.vscode-pull-request-github-0.66.2
+2023-06-29 18:18:55.176 [info] Extracting extension completed. github.vscode-pull-request-github
+2023-06-29 18:18:55.196 [info] Extension installed successfully: github.vscode-pull-request-github
+2023-06-29 18:18:55.201 [info] Marked extension as uninstalled github.vscode-pull-request-github-0.66.1

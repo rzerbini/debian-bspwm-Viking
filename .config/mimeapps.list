@@ -1,0 +1,8 @@
+[Added Associations]
+text/plain=org.xfce.mousepad.desktop;code.desktop;geany.desktop;
+application/x-shellscript=org.xfce.mousepad.desktop;code.desktop;
+application/x-trash=org.xfce.mousepad.desktop;
+text/css=code.desktop;
+
+[Default Applications]
+application/x-trash=org.xfce.mousepad.desktop
