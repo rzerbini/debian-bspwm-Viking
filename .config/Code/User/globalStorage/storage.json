@@ -3,17 +3,17 @@
     "profileAssociations": {
         "workspaces": {},
         "emptyWindows": {
-            "1688333503423": "__default__profile__"
+            "1690237587971": "__default__profile__"
         }
     },
     "profileAssociationsMigration": true,
-    "telemetry.machineId": "a93f8fab69e7de7720611348066ae934d5f828a492444eaa9f281555acf31082",
+    "telemetry.machineId": "801d1c765c6ae3b8ee7167d282f404bba2434f0a8ce6b93f360bab152a0ef15d",
     "backupWorkspaces": {
         "workspaces": [],
         "folders": [],
         "emptyWindows": [
             {
-                "backupFolder": "1688333503423"
+                "backupFolder": "1690237587971"
             }
         ]
     },
@@ -55,11 +55,21 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor",
-                                    "enabled": false
+                                    "label": "&&Reopen Closed Editor"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/thor/.config/sxhkd/sxhkdrc",
+                                        "path": "/home/thor/.config/sxhkd/sxhkdrc",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.config/sxhkd/sxhkdrc"
                                 },
                                 {
                                     "id": "openRecentFile",
@@ -76,56 +86,12 @@
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/thor/.themes/Thor-master/gtk-2.0/gtkrc",
-                                        "path": "/home/thor/.themes/Thor-master/gtk-2.0/gtkrc",
+                                        "external": "file:///home/thor/.config/picom.conf",
+                                        "path": "/home/thor/.config/picom.conf",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/.themes/Thor-master/gtk-2.0/gtkrc"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/thor/.themes/Nordic-master/gtk-4.0/gtk.css",
-                                        "path": "/home/thor/.themes/Nordic-master/gtk-4.0/gtk.css",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/.themes/Nordic-master/gtk-4.0/gtk.css"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/thor/.themes/thor-theme/gtk-3.0/gtk.css",
-                                        "path": "/home/thor/.themes/thor-theme/gtk-3.0/gtk.css",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/.themes/thor-theme/gtk-3.0/gtk.css"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/thor/.config/bspwm/bspwmrc",
-                                        "path": "/home/thor/.config/bspwm/bspwmrc",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/.config/bspwm/bspwmrc"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/thor/.config/bspwm/autostart.sh",
-                                        "path": "/home/thor/.config/bspwm/autostart.sh",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/.config/bspwm/autostart.sh"
+                                    "label": "~/.config/picom.conf"
                                 },
                                 {
                                     "id": "openRecentFile",
@@ -142,12 +108,45 @@
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/thor/.config/sxhkd/sxhkdrc",
-                                        "path": "/home/thor/.config/sxhkd/sxhkdrc",
+                                        "external": "file:///home/thor/.config/alacritty/alacritty.yml",
+                                        "path": "/home/thor/.config/alacritty/alacritty.yml",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/.config/sxhkd/sxhkdrc"
+                                    "label": "~/.config/alacritty/alacritty.yml"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///usr/share/doc/picom/examples/picom.sample.conf",
+                                        "path": "/usr/share/doc/picom/examples/picom.sample.conf",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/usr/share/doc/picom/examples/picom.sample.conf"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/thor/.config/rofi/powermenu/powermenu.sh",
+                                        "path": "/home/thor/.config/rofi/powermenu/powermenu.sh",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.config/rofi/powermenu/powermenu.sh"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/thor/.config/bspwm/bspwmrc",
+                                        "path": "/home/thor/.config/bspwm/bspwmrc",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.config/bspwm/bspwmrc"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -186,11 +185,13 @@
                     },
                     {
                         "id": "workbench.action.files.save",
-                        "label": "&&Save"
+                        "label": "&&Save",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.files.saveAs",
-                        "label": "Save &&As..."
+                        "label": "Save &&As...",
+                        "enabled": false
                     },
                     {
                         "id": "saveAll",
@@ -243,7 +244,7 @@
                                             },
                                             {
                                                 "id": "workbench.profiles.actions.showProfileContents",
-                                                "label": "Show Contents..."
+                                                "label": "Show Profile Contents"
                                             },
                                             {
                                                 "id": "vscode.menubar.separator"
@@ -296,6 +297,10 @@
                                     "label": "Configure User Snippets"
                                 },
                                 {
+                                    "id": "workbench.action.tasks.openUserTasks",
+                                    "label": "User Tasks"
+                                },
+                                {
                                     "id": "submenuitem.ThemesSubMenu",
                                     "label": "&&Theme",
                                     "submenu": {
@@ -330,11 +335,13 @@
                     },
                     {
                         "id": "workbench.action.files.revert",
-                        "label": "Re&&vert File"
+                        "label": "Re&&vert File",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.closeActiveEditor",
-                        "label": "&&Close Editor"
+                        "label": "&&Close Editor",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.closeWindow",
@@ -379,11 +386,13 @@
                     },
                     {
                         "id": "actions.find",
-                        "label": "&&Find"
+                        "label": "&&Find",
+                        "enabled": false
                     },
                     {
                         "id": "editor.action.startFindReplaceAction",
-                        "label": "&&Replace"
+                        "label": "&&Replace",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -530,7 +539,8 @@
                                 },
                                 {
                                     "id": "workbench.action.toggleSidebarVisibility",
-                                    "label": "&&Primary Side Bar"
+                                    "label": "&&Primary Side Bar",
+                                    "checked": true
                                 },
                                 {
                                     "id": "workbench.action.toggleAuxiliaryBar",
@@ -764,7 +774,8 @@
                     },
                     {
                         "id": "editor.action.toggleWordWrap",
-                        "label": "&&Word Wrap"
+                        "label": "&&Word Wrap",
+                        "enabled": false
                     },
                     {
                         "id": "editor.action.toggleStickyScroll",
@@ -776,7 +787,8 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back"
+                        "label": "&&Back",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -785,7 +797,8 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location"
+                        "label": "&&Last Edit Location",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1688,20 +1701,20 @@
             "editorPartMinWidth": 220,
             "titleBarHeight": 0,
             "activityBarWidth": 48,
-            "sideBarWidth": 0,
+            "sideBarWidth": 409,
             "statusBarHeight": 22,
             "windowBorder": false
         }
     },
     "windowsState": {
         "lastActiveWindow": {
-            "backupPath": "/home/thor/.config/Code/Backups/1688333503423",
+            "backupPath": "/home/thor/.config/Code/Backups/1690237587971",
             "uiState": {
                 "mode": 1,
-                "x": 494,
-                "y": 48,
-                "width": 459,
-                "height": 498
+                "x": 14,
+                "y": 56,
+                "width": 1892,
+                "height": 1010
             }
         },
         "openedWindows": []

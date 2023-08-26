@@ -1,0 +1,10 @@
+2023-07-24 19:26:28.664 [info] Using settings sync service https://vscode-sync.trafficmanager.net/
+2023-07-24 19:26:28.664 [info] Auto Sync is enabled.
+2023-07-24 19:26:28.664 [info] Auto Sync: Suspended until auth token is available.
+2023-07-24 19:26:29.613 [info] Deleting non existing profile from backup /home/thor/.config/Code/User/sync/extensions
+2023-07-24 19:26:29.672 [info] Deleting non existing profile from backup /home/thor/.config/Code/User/sync/globalState
+2023-07-24 19:26:29.689 [info] Deleting non existing profile from backup /home/thor/.config/Code/User/sync/keybindings
+2023-07-24 19:26:29.707 [info] Deleting non existing profile from backup /home/thor/.config/Code/User/sync/profiles
+2023-07-24 19:26:29.733 [info] Deleting non existing profile from backup /home/thor/.config/Code/User/sync/settings
+2023-07-24 19:26:29.736 [info] Deleting non existing profile from backup /home/thor/.config/Code/User/sync/snippets
+2023-07-24 19:26:29.740 [info] Deleting non existing profile from backup /home/thor/.config/Code/User/sync/tasks

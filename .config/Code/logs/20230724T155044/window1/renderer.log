@@ -1,0 +1,3 @@
+2023-07-24 15:50:46.302 [error] [medzhidov.font-awesome-codes-html]: Unknown language in `contributes.font-awesome-codes-html.language`. Provided value: pug
+2023-07-24 15:50:46.302 [error] [medzhidov.font-awesome-codes-html]: Unknown language in `contributes.font-awesome-codes-html.language`. Provided value: ejs
+2023-07-24 15:50:48.314 [info] [perf] Render performance baseline is 23ms

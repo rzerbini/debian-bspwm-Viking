@@ -1,0 +1,74 @@
+2023-08-26 15:04:26.439 [info] Getting Manifest... github.vscode-pull-request-github
+2023-08-26 15:04:26.440 [info] Getting Manifest... ms-vscode-remote.remote-wsl
+2023-08-26 15:04:26.476 [info] Installing extension: ms-vscode-remote.remote-wsl
+2023-08-26 15:04:26.477 [info] Installing extension: github.vscode-pull-request-github
+2023-08-26 15:04:28.680 [info] Extension signature is verified: ms-vscode-remote.remote-wsl
+2023-08-26 15:04:28.784 [info] Extension signature is verified: github.vscode-pull-request-github
+2023-08-26 15:04:28.934 [info] Extracted extension to file:///home/thor/.vscode/extensions/ms-vscode-remote.remote-wsl-0.81.0: ms-vscode-remote.remote-wsl
+2023-08-26 15:04:28.941 [info] Renamed to /home/thor/.vscode/extensions/ms-vscode-remote.remote-wsl-0.81.0
+2023-08-26 15:04:28.944 [info] Extracting extension completed. ms-vscode-remote.remote-wsl
+2023-08-26 15:04:28.956 [info] Extension installed successfully: ms-vscode-remote.remote-wsl
+2023-08-26 15:04:28.962 [info] Marked extension as uninstalled ms-vscode-remote.remote-wsl-0.80.2
+2023-08-26 15:04:29.161 [info] Extracted extension to file:///home/thor/.vscode/extensions/github.vscode-pull-request-github-0.70.0: github.vscode-pull-request-github
+2023-08-26 15:04:29.168 [info] Renamed to /home/thor/.vscode/extensions/github.vscode-pull-request-github-0.70.0
+2023-08-26 15:04:29.176 [info] Extracting extension completed. github.vscode-pull-request-github
+2023-08-26 15:04:29.214 [info] Extension installed successfully: github.vscode-pull-request-github
+2023-08-26 15:04:29.227 [info] Marked extension as uninstalled github.vscode-pull-request-github-0.68.1
+2023-08-26 15:05:12.866 [info] Uninstalling extension from the profile: formulahendry.docker-explorer@0.1.7 vscode-userdata:/home/thor/.vscode/extensions/extensions.json
+2023-08-26 15:05:12.866 [info] Uninstalling extension from the profile: formulahendry.docker-extension-pack@0.0.1 vscode-userdata:/home/thor/.vscode/extensions/extensions.json
+2023-08-26 15:05:12.867 [info] Uninstalling extension from the profile: github.vscode-pull-request-github@0.70.0 vscode-userdata:/home/thor/.vscode/extensions/extensions.json
+2023-08-26 15:05:12.867 [info] Uninstalling extension from the profile: janne252.fontawesome-autocomplete@1.3.1 vscode-userdata:/home/thor/.vscode/extensions/extensions.json
+2023-08-26 15:05:12.867 [info] Uninstalling extension from the profile: jaspernorth.vscode-pigments@2.0.0 vscode-userdata:/home/thor/.vscode/extensions/extensions.json
+2023-08-26 15:05:12.867 [info] Uninstalling extension from the profile: medzhidov.font-awesome-codes-html@0.0.7 vscode-userdata:/home/thor/.vscode/extensions/extensions.json
+2023-08-26 15:05:12.867 [info] Uninstalling extension from the profile: ms-azuretools.vscode-docker@1.26.0 vscode-userdata:/home/thor/.vscode/extensions/extensions.json
+2023-08-26 15:05:12.867 [info] Uninstalling extension from the profile: ms-vscode-remote.remote-wsl@0.81.0 vscode-userdata:/home/thor/.vscode/extensions/extensions.json
+2023-08-26 15:05:12.867 [info] Uninstalling extension from the profile: seyyedkhandon.firacode@2.2.1 vscode-userdata:/home/thor/.vscode/extensions/extensions.json
+2023-08-26 15:05:12.867 [info] Uninstalling extension from the profile: tomasvergara.vscode-fontawesome-gallery@0.0.7 vscode-userdata:/home/thor/.vscode/extensions/extensions.json
+2023-08-26 15:05:12.948 [info] Uninstalling the extension without including packed extension formulahendry.docker-explorer@0.1.7
+2023-08-26 15:05:12.948 [info] Uninstalling the extension without checking dependents formulahendry.docker-explorer@0.1.7
+2023-08-26 15:05:12.978 [info] Uninstalling the extension without including packed extension formulahendry.docker-extension-pack@0.0.1
+2023-08-26 15:05:12.978 [info] Uninstalling the extension without checking dependents formulahendry.docker-extension-pack@0.0.1
+2023-08-26 15:05:13.015 [info] Uninstalling the extension without including packed extension github.vscode-pull-request-github@0.70.0
+2023-08-26 15:05:13.015 [info] Uninstalling the extension without checking dependents github.vscode-pull-request-github@0.70.0
+2023-08-26 15:05:13.032 [info] Uninstalling the extension without including packed extension janne252.fontawesome-autocomplete@1.3.1
+2023-08-26 15:05:13.032 [info] Uninstalling the extension without checking dependents janne252.fontawesome-autocomplete@1.3.1
+2023-08-26 15:05:13.041 [info] Uninstalling the extension without including packed extension jaspernorth.vscode-pigments@2.0.0
+2023-08-26 15:05:13.041 [info] Uninstalling the extension without checking dependents jaspernorth.vscode-pigments@2.0.0
+2023-08-26 15:05:13.051 [info] Uninstalling the extension without including packed extension medzhidov.font-awesome-codes-html@0.0.7
+2023-08-26 15:05:13.051 [info] Uninstalling the extension without checking dependents medzhidov.font-awesome-codes-html@0.0.7
+2023-08-26 15:05:13.057 [info] Uninstalling the extension without including packed extension ms-azuretools.vscode-docker@1.26.0
+2023-08-26 15:05:13.057 [info] Uninstalling the extension without checking dependents ms-azuretools.vscode-docker@1.26.0
+2023-08-26 15:05:13.070 [info] Uninstalling the extension without including packed extension ms-vscode-remote.remote-wsl@0.81.0
+2023-08-26 15:05:13.070 [info] Uninstalling the extension without checking dependents ms-vscode-remote.remote-wsl@0.81.0
+2023-08-26 15:05:13.074 [info] Uninstalling the extension without including packed extension seyyedkhandon.firacode@2.2.1
+2023-08-26 15:05:13.074 [info] Uninstalling the extension without checking dependents seyyedkhandon.firacode@2.2.1
+2023-08-26 15:05:13.077 [info] Uninstalling the extension without including packed extension tomasvergara.vscode-fontawesome-gallery@0.0.7
+2023-08-26 15:05:13.078 [info] Uninstalling the extension without checking dependents tomasvergara.vscode-fontawesome-gallery@0.0.7
+2023-08-26 15:05:13.079 [info] Marked extension as uninstalled formulahendry.docker-explorer-0.1.7
+2023-08-26 15:05:13.084 [info] Marked extension as uninstalled formulahendry.docker-extension-pack-0.0.1
+2023-08-26 15:05:13.099 [info] Marked extension as uninstalled github.vscode-pull-request-github-0.70.0
+2023-08-26 15:05:13.106 [info] Marked extension as uninstalled janne252.fontawesome-autocomplete-1.3.1
+2023-08-26 15:05:13.117 [info] Marked extension as uninstalled jaspernorth.vscode-pigments-2.0.0
+2023-08-26 15:05:13.129 [info] Marked extension as uninstalled medzhidov.font-awesome-codes-html-0.0.7
+2023-08-26 15:05:13.144 [info] Marked extension as uninstalled ms-azuretools.vscode-docker-1.26.0
+2023-08-26 15:05:13.155 [info] Marked extension as uninstalled ms-vscode-remote.remote-wsl-0.81.0
+2023-08-26 15:05:13.165 [info] Marked extension as uninstalled seyyedkhandon.firacode-2.2.1
+2023-08-26 15:05:13.171 [info] Marked extension as uninstalled tomasvergara.vscode-fontawesome-gallery-0.0.7
+2023-08-26 15:05:13.206 [info] Successfully uninstalled extension from the profile formulahendry.docker-explorer@0.1.7 vscode-userdata:/home/thor/.vscode/extensions/extensions.json
+2023-08-26 15:05:13.258 [info] Successfully uninstalled extension from the profile github.vscode-pull-request-github@0.70.0 vscode-userdata:/home/thor/.vscode/extensions/extensions.json
+2023-08-26 15:05:13.266 [info] Successfully uninstalled extension from the profile formulahendry.docker-extension-pack@0.0.1 vscode-userdata:/home/thor/.vscode/extensions/extensions.json
+2023-08-26 15:05:13.284 [info] Successfully uninstalled extension from the profile janne252.fontawesome-autocomplete@1.3.1 vscode-userdata:/home/thor/.vscode/extensions/extensions.json
+2023-08-26 15:05:13.322 [info] Successfully uninstalled extension from the profile jaspernorth.vscode-pigments@2.0.0 vscode-userdata:/home/thor/.vscode/extensions/extensions.json
+2023-08-26 15:05:13.753 [info] Successfully uninstalled extension from the profile medzhidov.font-awesome-codes-html@0.0.7 vscode-userdata:/home/thor/.vscode/extensions/extensions.json
+2023-08-26 15:05:13.763 [info] Successfully uninstalled extension from the profile ms-vscode-remote.remote-wsl@0.81.0 vscode-userdata:/home/thor/.vscode/extensions/extensions.json
+2023-08-26 15:05:13.774 [info] Successfully uninstalled extension from the profile ms-azuretools.vscode-docker@1.26.0 vscode-userdata:/home/thor/.vscode/extensions/extensions.json
+2023-08-26 15:05:13.785 [info] Successfully uninstalled extension from the profile seyyedkhandon.firacode@2.2.1 vscode-userdata:/home/thor/.vscode/extensions/extensions.json
+2023-08-26 15:05:13.907 [info] Successfully uninstalled extension from the profile tomasvergara.vscode-fontawesome-gallery@0.0.7 vscode-userdata:/home/thor/.vscode/extensions/extensions.json
+2023-08-26 15:05:13.908 [info] Getting Manifest... eamodio.gitlens
+2023-08-26 15:05:13.989 [info] Installing extension: eamodio.gitlens
+2023-08-26 15:05:13.989 [info] Installing the extension without checking dependencies and pack eamodio.gitlens
+2023-08-26 15:05:16.609 [info] Extension signature is verified: eamodio.gitlens
+2023-08-26 15:05:17.439 [info] Extracted extension to file:///home/thor/.vscode/extensions/eamodio.gitlens-14.2.1: eamodio.gitlens
+2023-08-26 15:05:17.451 [info] Renamed to /home/thor/.vscode/extensions/eamodio.gitlens-14.2.1
+2023-08-26 15:05:17.455 [info] Extracting extension completed. eamodio.gitlens
+2023-08-26 15:05:17.465 [info] Extension installed successfully: eamodio.gitlens

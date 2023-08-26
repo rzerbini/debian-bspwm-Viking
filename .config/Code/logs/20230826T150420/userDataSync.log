@@ -1,0 +1,90 @@
+2023-08-26 15:04:22.558 [info] Using settings sync service https://vscode-sync.trafficmanager.net/
+2023-08-26 15:04:22.558 [info] Auto Sync is enabled.
+2023-08-26 15:04:22.558 [info] Auto Sync: Suspended until auth token is available.
+2023-08-26 15:05:09.793 [info] Auto Sync: Triggered by Interval
+2023-08-26 15:05:09.794 [info] Sync started.
+2023-08-26 15:05:10.407 [info] Settings: Last sync resource does not exist locally.
+2023-08-26 15:05:10.580 [info] Settings: No changes found during synchronizing settings.
+2023-08-26 15:05:10.585 [info] Keybindings: Last sync resource does not exist locally.
+2023-08-26 15:05:10.733 [info] Keybindings: No changes found during synchronizing keybindings.
+2023-08-26 15:05:10.734 [info] Snippets: Last sync resource does not exist locally.
+2023-08-26 15:05:10.871 [info] Snippets: No changes found during synchronizing snippets.
+2023-08-26 15:05:10.873 [info] Tasks: Last sync resource does not exist locally.
+2023-08-26 15:05:11.009 [info] Tasks: No changes found during synchronizing tasks.
+2023-08-26 15:05:11.011 [info] GlobalState: Last sync resource does not exist locally.
+2023-08-26 15:05:11.143 [info] Request failed {"url":"https://vscode-sync.trafficmanager.net/v1/resource/globalState/d4f8e639-8158-4dcb-8978-41f5c9644e30","status":404,"execution-id":"a1a32647-c8a3-48e3-86a2-ee9ff191abcf","operation-id":"9a72d05d16db4dbab127984eebd46c18"} Not Found
+2023-08-26 15:05:11.143 [info] GlobalState: Last sync resource does not exist remotely.
+2023-08-26 15:05:11.411 [info] GlobalState: Accepting remote because it was synced before and the last sync data is not available.
+2023-08-26 15:05:11.418 [info] GlobalState: Updated global state ["workbench.view.extension.gitlens.state.hidden","workbench.view.extension.gitlensInspect.state.hidden","cpp.1.lastSessionDate","cpp.1.sessionCount","csharp.1.lastSessionDate","csharp.1.sessionCount","java.2.lastSessionDate","java.2.sessionCount","javascript.1.lastSessionDate","javascript.1.sessionCount","memento/gettingStartedService","typescript.1.lastSessionDate","typescript.1.sessionCount","workbench.activity.pinnedViewlets2","workbench.explorer.views.state.hidden","workbench.panel.pinnedPanels","workbench.scm.views.state.hidden","workbench.statusbar.hidden","workbench.view.extension.github-pull-request.state.hidden","workbench.welcomePage.walkthroughMetadata"]
+2023-08-26 15:05:11.418 [info] GlobalState: Updated local ui state
+2023-08-26 15:05:11.604 [info] GlobalState: Updated remote ui state.
+2023-08-26 15:05:11.609 [info] GlobalState: Updated last synchronized ui state
+2023-08-26 15:05:11.610 [info] Extensions: Last sync resource does not exist locally.
+2023-08-26 15:05:13.207 [info] Extensions: Uninstalled local extension. formulahendry.docker-explorer
+2023-08-26 15:05:13.259 [info] Extensions: Uninstalled local extension. github.vscode-pull-request-github
+2023-08-26 15:05:13.266 [info] Extensions: Uninstalled local extension. formulahendry.docker-extension-pack
+2023-08-26 15:05:13.285 [info] Extensions: Uninstalled local extension. janne252.fontawesome-autocomplete
+2023-08-26 15:05:13.322 [info] Extensions: Uninstalled local extension. jaspernorth.vscode-pigments
+2023-08-26 15:05:13.754 [info] Extensions: Uninstalled local extension. medzhidov.font-awesome-codes-html
+2023-08-26 15:05:13.763 [info] Extensions: Uninstalled local extension. ms-vscode-remote.remote-wsl
+2023-08-26 15:05:13.776 [info] Extensions: Uninstalled local extension. ms-azuretools.vscode-docker
+2023-08-26 15:05:13.785 [info] Extensions: Uninstalled local extension. seyyedkhandon.firacode
+2023-08-26 15:05:13.908 [info] Extensions: Uninstalled local extension. tomasvergara.vscode-fontawesome-gallery
+2023-08-26 15:05:17.466 [info] Extensions: Installed extension. eamodio.gitlens 14.2.1
+2023-08-26 15:05:17.474 [info] Extensions: Updated last synchronized extensions.
+2023-08-26 15:05:17.483 [info] Profiles: Last sync resource does not exist locally.
+2023-08-26 15:05:17.694 [info] Profiles: No changes found during synchronizing profiles.
+2023-08-26 15:05:17.697 [info] Sync done. Took 7904ms
+2023-08-26 15:05:17.697 [info] Auto Sync: Triggered by Activity
+2023-08-26 15:05:17.697 [info] Sync started.
+2023-08-26 15:05:17.857 [info] Settings: No changes found during synchronizing settings.
+2023-08-26 15:05:17.861 [info] Keybindings: No changes found during synchronizing keybindings.
+2023-08-26 15:05:17.868 [info] Snippets: No changes found during synchronizing snippets.
+2023-08-26 15:05:17.871 [info] Tasks: No changes found during synchronizing tasks.
+2023-08-26 15:05:18.303 [info] GlobalState: Updated remote ui state. Added: workbench.panel.markers.hidden,workbench.panel.output.hidden,terminal.hidden,workbench.explorer.views.state.hidden,workbench.scm.views.state.hidden,workbench.view.search.state.hidden,workbench.activity.pinnedViewlets2,workbench.statusbar.hidden,workbench.panel.repl.hidden,workbench.panel.pinnedPanels,workbench.view.debug.state.hidden,colorThemeData,themeUpdatedNotificationShown,workbench.telemetryOptOutShown,memento/gettingStartedService,nps/lastSessionDate,nps/sessionCount,workbench.panel.alignment,cpp.1.lastSessionDate,cpp.1.sessionCount,java.2.lastSessionDate,java.2.sessionCount,javascript.1.lastSessionDate,javascript.1.sessionCount,typescript.1.lastSessionDate,typescript.1.sessionCount,workbench.welcomePage.walkthroughMetadata,workbench.view.extensions.state.hidden,ces/skipSurvey,workbench.view.remote.state.hidden,workbench.view.extension.github-pull-requests.state.hidden,workbench.view.extension.dockerView.state.hidden,~remote.forwardedPortsContainer.hidden,fileBasedRecommendations/promptedRecommendations,csharp.1.lastSessionDate,csharp.1.sessionCount,workbench.view.extension.github-pull-request.state.hidden,nps/isCandidate,nps/skipVersion,commandPalette.mru.cache,commandPalette.mru.counter,extensionsAssistant/importantRecommendationsIgnore,extensionsAssistant/fileExtensionsSuggestionIgnore,cpp.1.editedCount,cpp.1.editedDate,workbench.welcomePage.hiddenCategories,workbench.view.extension.vscode-fontawesome-gallery-sidebar.state.hidden,workbench.view.extension.gitlens.state.hidden,workbench.view.extension.gitlensInspect.state.hidden.
+2023-08-26 15:05:18.310 [info] GlobalState: Updated last synchronized ui state
+2023-08-26 15:05:18.347 [info] Extensions: No changes found during synchronizing extensions.
+2023-08-26 15:05:18.348 [info] Profiles: No changes found during synchronizing profiles.
+2023-08-26 15:05:18.350 [info] Sync done. Took 653ms
+2023-08-26 15:05:20.038 [info] Auto Sync: Triggered by Activity
+2023-08-26 15:05:20.038 [info] Sync started.
+2023-08-26 15:05:20.176 [info] Settings: No changes found during synchronizing settings.
+2023-08-26 15:05:20.179 [info] Keybindings: No changes found during synchronizing keybindings.
+2023-08-26 15:05:20.184 [info] Snippets: No changes found during synchronizing snippets.
+2023-08-26 15:05:20.188 [info] Tasks: No changes found during synchronizing tasks.
+2023-08-26 15:05:20.623 [info] GlobalState: Updated remote ui state. Updated: workbench.activity.pinnedViewlets2.
+2023-08-26 15:05:20.632 [info] GlobalState: Updated last synchronized ui state
+2023-08-26 15:05:20.678 [info] Extensions: No changes found during synchronizing extensions.
+2023-08-26 15:05:20.681 [info] Profiles: No changes found during synchronizing profiles.
+2023-08-26 15:05:20.683 [info] Sync done. Took 646ms
+2023-08-26 15:06:47.230 [info] Auto Sync: Triggered by Activity
+2023-08-26 15:06:47.230 [info] Sync started.
+2023-08-26 15:06:47.363 [info] Settings: No changes found during synchronizing settings.
+2023-08-26 15:06:47.366 [info] Keybindings: No changes found during synchronizing keybindings.
+2023-08-26 15:06:47.369 [info] Snippets: No changes found during synchronizing snippets.
+2023-08-26 15:06:47.372 [info] Tasks: No changes found during synchronizing tasks.
+2023-08-26 15:06:47.812 [info] GlobalState: Updated remote ui state. Added: github-rzerbini.
+2023-08-26 15:06:47.818 [info] GlobalState: Updated last synchronized ui state
+2023-08-26 15:06:47.931 [info] Extensions: No changes found during synchronizing extensions.
+2023-08-26 15:06:47.944 [info] Profiles: No changes found during synchronizing profiles.
+2023-08-26 15:06:47.949 [info] Sync done. Took 720ms
+2023-08-26 15:07:11.992 [info] Auto Sync: Triggered by Activity
+2023-08-26 15:07:11.993 [info] Sync started.
+2023-08-26 15:07:12.127 [info] Settings: No changes found during synchronizing settings.
+2023-08-26 15:07:12.132 [info] Keybindings: No changes found during synchronizing keybindings.
+2023-08-26 15:07:12.136 [info] Snippets: No changes found during synchronizing snippets.
+2023-08-26 15:07:12.140 [info] Tasks: No changes found during synchronizing tasks.
+2023-08-26 15:07:12.145 [info] GlobalState: No changes found during synchronizing ui state.
+2023-08-26 15:07:12.290 [info] Extensions: No changes found during synchronizing extensions.
+2023-08-26 15:07:12.292 [info] Profiles: No changes found during synchronizing profiles.
+2023-08-26 15:07:12.296 [info] Sync done. Took 307ms
+2023-08-26 15:12:12.316 [info] Auto Sync: Triggered by Interval
+2023-08-26 15:12:12.316 [info] Sync started.
+2023-08-26 15:12:12.711 [info] Settings: No changes found during synchronizing settings.
+2023-08-26 15:12:12.715 [info] Keybindings: No changes found during synchronizing keybindings.
+2023-08-26 15:12:12.718 [info] Snippets: No changes found during synchronizing snippets.
+2023-08-26 15:12:12.720 [info] Tasks: No changes found during synchronizing tasks.
+2023-08-26 15:12:12.725 [info] GlobalState: No changes found during synchronizing ui state.
+2023-08-26 15:12:12.824 [info] Extensions: No changes found during synchronizing extensions.
+2023-08-26 15:12:12.826 [info] Profiles: No changes found during synchronizing profiles.
+2023-08-26 15:12:12.829 [info] Sync done. Took 515ms

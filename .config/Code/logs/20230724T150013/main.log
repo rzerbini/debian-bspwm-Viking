@@ -1,0 +1,5 @@
+2023-07-24 15:00:13.394 [info] update#setState idle
+2023-07-24 15:00:43.405 [info] update#setState checking for updates
+2023-07-24 15:00:43.614 [info] update#setState idle
+2023-07-24 15:29:39.892 [info] Extension host with pid 5660 exited with code: 0, signal: unknown.
+2023-07-24 15:29:39.893 [error] ptyHost terminated unexpectedly with code 0

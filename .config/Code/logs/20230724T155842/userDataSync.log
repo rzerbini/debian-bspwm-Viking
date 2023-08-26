@@ -1,0 +1,48 @@
+2023-07-24 15:58:44.036 [info] Using settings sync service https://vscode-sync.trafficmanager.net/
+2023-07-24 15:58:44.036 [info] Auto Sync is enabled.
+2023-07-24 15:58:44.036 [info] Auto Sync: Suspended until auth token is available.
+2023-07-24 15:58:45.159 [info] Deleting non existing profile from backup /home/thor/.config/Code/User/sync/extensions
+2023-07-24 15:58:45.259 [info] Deleting non existing profile from backup /home/thor/.config/Code/User/sync/globalState
+2023-07-24 15:58:45.440 [info] Deleting non existing profile from backup /home/thor/.config/Code/User/sync/keybindings
+2023-07-24 15:58:45.487 [info] Deleting non existing profile from backup /home/thor/.config/Code/User/sync/profiles
+2023-07-24 15:58:45.521 [info] Deleting non existing profile from backup /home/thor/.config/Code/User/sync/settings
+2023-07-24 15:58:45.549 [info] Deleting non existing profile from backup /home/thor/.config/Code/User/sync/snippets
+2023-07-24 15:58:45.555 [info] Deleting non existing profile from backup /home/thor/.config/Code/User/sync/tasks
+2023-07-24 15:58:45.933 [info] Auto Sync: Triggered by Interval
+2023-07-24 15:58:45.933 [info] Sync started.
+2023-07-24 15:58:46.520 [info] Settings: Last sync resource does not exist locally.
+2023-07-24 15:58:46.681 [info] Settings: No changes found during synchronizing settings.
+2023-07-24 15:58:46.686 [info] Keybindings: Last sync resource does not exist locally.
+2023-07-24 15:58:46.934 [info] Keybindings: No changes found during synchronizing keybindings.
+2023-07-24 15:58:46.949 [info] Snippets: Last sync resource does not exist locally.
+2023-07-24 15:58:47.171 [info] Snippets: No changes found during synchronizing snippets.
+2023-07-24 15:58:47.192 [info] Tasks: Last sync resource does not exist locally.
+2023-07-24 15:58:47.336 [info] Tasks: No changes found during synchronizing tasks.
+2023-07-24 15:58:47.339 [info] GlobalState: Last sync resource does not exist locally.
+2023-07-24 15:58:47.678 [info] GlobalState: No changes found during synchronizing ui state.
+2023-07-24 15:58:47.699 [info] Extensions: Last sync resource does not exist locally.
+2023-07-24 15:58:47.920 [info] Extensions: No changes found during synchronizing extensions.
+2023-07-24 15:58:47.923 [info] Profiles: Last sync resource does not exist locally.
+2023-07-24 15:58:48.063 [info] Profiles: No changes found during synchronizing profiles.
+2023-07-24 15:58:48.067 [info] Sync done. Took 2134ms
+2023-07-24 15:59:48.321 [info] Auto Sync: Triggered by Activity
+2023-07-24 15:59:48.324 [info] Sync started.
+2023-07-24 15:59:48.479 [info] Settings: No changes found during synchronizing settings.
+2023-07-24 15:59:48.487 [info] Keybindings: No changes found during synchronizing keybindings.
+2023-07-24 15:59:48.492 [info] Snippets: No changes found during synchronizing snippets.
+2023-07-24 15:59:48.508 [info] Tasks: No changes found during synchronizing tasks.
+2023-07-24 15:59:48.525 [info] GlobalState: No changes found during synchronizing ui state.
+2023-07-24 15:59:48.918 [info] Extensions: No changes found during synchronizing extensions.
+2023-07-24 15:59:48.921 [info] Profiles: No changes found during synchronizing profiles.
+2023-07-24 15:59:48.925 [info] Sync done. Took 610ms
+2023-07-24 16:00:07.903 [info] Auto Sync: Triggered by Activity
+2023-07-24 16:00:07.904 [info] Sync started.
+2023-07-24 16:00:08.053 [info] Settings: No changes found during synchronizing settings.
+2023-07-24 16:00:08.069 [info] Keybindings: No changes found during synchronizing keybindings.
+2023-07-24 16:00:08.082 [info] Snippets: No changes found during synchronizing snippets.
+2023-07-24 16:00:08.090 [info] Tasks: No changes found during synchronizing tasks.
+2023-07-24 16:00:08.098 [info] GlobalState: No changes found during synchronizing ui state.
+2023-07-24 16:00:08.555 [info] Extensions: Updated remote extensions. Added: ["janne252.fontawesome-autocomplete"].
+2023-07-24 16:00:08.569 [info] Extensions: Updated last synchronized extensions.
+2023-07-24 16:00:08.573 [info] Profiles: No changes found during synchronizing profiles.
+2023-07-24 16:00:08.579 [info] Sync done. Took 675ms

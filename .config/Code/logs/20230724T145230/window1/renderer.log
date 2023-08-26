@@ -1,0 +1,4 @@
+2023-07-24 14:52:31.002 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/thor/.config/polybar/config.ini","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
+2023-07-24 14:52:31.962 [error] [medzhidov.font-awesome-codes-html]: Unknown language in `contributes.font-awesome-codes-html.language`. Provided value: pug
+2023-07-24 14:52:31.962 [error] [medzhidov.font-awesome-codes-html]: Unknown language in `contributes.font-awesome-codes-html.language`. Provided value: ejs
+2023-07-24 14:52:34.032 [info] [perf] Render performance baseline is 22ms

@@ -1,0 +1,22 @@
+2023-07-24 14:56:31.045 [info] Using settings sync service https://vscode-sync.trafficmanager.net/
+2023-07-24 14:56:31.045 [info] Auto Sync is enabled.
+2023-07-24 14:56:31.045 [info] Auto Sync: Suspended until auth token is available.
+2023-07-24 14:56:32.440 [info] Auto Sync: Triggered by Interval
+2023-07-24 14:56:32.440 [info] Sync started.
+2023-07-24 14:56:33.037 [info] Settings: Last sync resource does not exist locally.
+2023-07-24 14:56:33.373 [info] Settings: No changes found during synchronizing settings.
+2023-07-24 14:56:33.508 [info] Keybindings: Last sync resource does not exist locally.
+2023-07-24 14:56:33.772 [info] Keybindings: No changes found during synchronizing keybindings.
+2023-07-24 14:56:33.776 [info] Snippets: Last sync resource does not exist locally.
+2023-07-24 14:56:33.922 [info] Snippets: No changes found during synchronizing snippets.
+2023-07-24 14:56:33.926 [info] Tasks: Last sync resource does not exist locally.
+2023-07-24 14:56:34.138 [info] Tasks: No changes found during synchronizing tasks.
+2023-07-24 14:56:34.177 [info] GlobalState: Last sync resource does not exist locally.
+2023-07-24 14:56:34.653 [info] GlobalState: Updated global state ["workbench.statusbar.hidden"]
+2023-07-24 14:56:34.653 [info] GlobalState: Updated local ui state
+2023-07-24 14:56:34.660 [info] GlobalState: Updated last synchronized ui state
+2023-07-24 14:56:34.665 [info] Extensions: Last sync resource does not exist locally.
+2023-07-24 14:56:34.940 [info] Extensions: No changes found during synchronizing extensions.
+2023-07-24 14:56:34.943 [info] Profiles: Last sync resource does not exist locally.
+2023-07-24 14:56:35.087 [info] Profiles: No changes found during synchronizing profiles.
+2023-07-24 14:56:35.091 [info] Sync done. Took 2651ms

@@ -1,0 +1,38 @@
+2023-07-24 14:52:31.762 [info] Extension host with pid 4355 started
+2023-07-24 14:52:31.885 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-07-24 14:52:31.938 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2023-07-24 14:52:31.951 [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: true, activationEvent: '*'
+2023-07-24 14:52:31.971 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-07-24 14:52:31.996 [info] Eager extensions activated
+2023-07-24 14:52:31.999 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-07-24 14:52:32.004 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-07-24 14:52:32.025 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onStartupFinished', root cause: GitHub.vscode-pull-request-github
+2023-07-24 14:52:32.054 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl, startup: false, activationEvent: 'onStartupFinished'
+2023-07-24 14:52:32.139 [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: false, activationEvent: 'onStartupFinished'
+2023-07-24 14:52:32.359 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2023-07-24 14:52:49.290 [info] Extension host terminating: renderer closed the MessagePort
+2023-07-24 14:52:49.294 [error] Canceled: Canceled
+	at new h (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:42413)
+	at t.O (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:11236)
+	at U.<computed>.q.charCodeAt.U.<computed> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:8675)
+	at e.$vL.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:63549)
+	at e.$vL.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:62973)
+	at P.registerCommand.description (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:62280)
+	at e.$vL.h (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:64085)
+	at e.$vL.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:63073)
+	at e.$vL.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:62973)
+	at Object.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:117:20971)
+	at Gg.reset (/home/thor/.vscode/extensions/github.vscode-pull-request-github-0.68.1/dist/extension.js:1822:2820)
+	at Gg.dispose (/home/thor/.vscode/extensions/github.vscode-pull-request-github-0.68.1/dist/extension.js:1822:3059)
+	at S (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:11731)
+	at i.Z (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:10370)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:8332
+	at Array.map (<anonymous>)
+	at i.S (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:8319)
+	at i.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:8591)
+	at u.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:117:1532)
+	at E (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:127:32236)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:127:28665)
+	at MessagePortMain.emit (node:events:513:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367) setContext undefined
+2023-07-24 14:52:49.294 [info] Extension host with pid 4355 exiting with code 0

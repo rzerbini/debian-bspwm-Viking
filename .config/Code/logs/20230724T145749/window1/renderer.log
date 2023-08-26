@@ -1,0 +1,4 @@
+2023-07-24 14:57:50.316 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/thor/.config/sxhkd/sxhkdrc","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
+2023-07-24 14:57:51.166 [error] [medzhidov.font-awesome-codes-html]: Unknown language in `contributes.font-awesome-codes-html.language`. Provided value: pug
+2023-07-24 14:57:51.166 [error] [medzhidov.font-awesome-codes-html]: Unknown language in `contributes.font-awesome-codes-html.language`. Provided value: ejs
+2023-07-24 14:57:53.518 [info] [perf] Render performance baseline is 18ms
