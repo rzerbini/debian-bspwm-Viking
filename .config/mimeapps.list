@@ -1,2 +1,3 @@
 [Added Associations]
-text/plain=org.xfce.mousepad.desktop;
+text/plain=org.xfce.mousepad.desktop;sublime_text.desktop;
+application/x-shellscript=sublime_text.desktop;org.xfce.mousepad.desktop;

@@ -20,7 +20,7 @@ super + shift + d
 
 # program launcher
 super + @space
-	dmenu_run
+	rofi -show drun
 	
 super + d
 	dmenu_run
