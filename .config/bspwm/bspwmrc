@@ -6,14 +6,16 @@ xrandr --output Virtual1 --mode 1920x1080 &
 
 xsetroot -cursor_name left_ptr &
 
-picom --config ~/.config/picom.conf & 
+picom --config ~/.config/picom/picom.conf & 
 
 #compton –-backend glx –-vsync opengl-swc &
 # usr/lib/xfce-polkit/xfce-polkit &
 
-~/.local/bin/polybar.launch.sh &
+~/.config/polibar/launch.sh &
 
-nitrogen --restore &
+feh --bg-scale <image>
+
+#nitrogen --restore &
 
 bspc monitor -d I II III IV V VI VII VIII IX X
 
